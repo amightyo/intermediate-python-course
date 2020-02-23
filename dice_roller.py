@@ -20,3 +20,14 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# Good work finishing the intermediate python course!
+
+# Now you have an awesome tool to use at your next game night!
+
+# Here are some potential Next Steps for you:
+
+  # Add more inputs (like player or team name).
+  # Store each player's roll totals in separate arrays.
+  # Choose a dice-based game that you can fully simulate using python.
